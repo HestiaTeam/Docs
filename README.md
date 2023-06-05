@@ -4,7 +4,7 @@
 https://github.com/HestiaTeam/Docs/tree/main/Kiosk
 
 ### Kiosk app download link
-http://h.yoyr.com/1.0.0.202306051718.apk
+http://h.yoyr.com/1.0.0.202306051718.apk  
 Open Browser Click the Address Area Then Scan the qrcode  
 ![](https://github.com/HestiaTeam/Docs/blob/main/Kiosk/http___h.yoyr.com_1.0.0.202306051718.apk.png?raw=true)  
 ### Kiosk app update log

@@ -1,9 +1,9 @@
 ## Coffee Robot Kiosk App
 
-### 1. [First Installation Guide]()
+### 1. [First Installation Guide](Docs/DownloadLink.md)
 
-## Lastest Updating Guide
+### 2. [Lastest Updating Guide](Docs/FirstInstallation.md)
 
-## Kiosk App Updating log
+### 3. [Kiosk App Updating Log](Docs/LastestUpdating.md)
 
-## Kiosk App Lastest Download Link
+### 4. [Kiosk App Lastest Download Link](Docs/UpdatingHistory.md)

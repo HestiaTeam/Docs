@@ -1,4 +1,9 @@
-# Kiosk App
+## Coffee Robot Kiosk App
 
-- Version: 1.0.0.202305051641
-- DownloadLink: https://github.com/HestiaTeam/Docs/blob/main/Kiosk/1.0.0.202305051641.apk
+### 1. [First Installation Guide]()
+
+## Lastest Updating Guide
+
+## Kiosk App Updating log
+
+## Kiosk App Lastest Download Link

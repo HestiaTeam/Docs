@@ -12,6 +12,9 @@
 
 ![](../Files/kiosk_config_1.0.0.202306051328.png)
 
+Google drive link:
+![](../Files/config_in_google_drive.png)
+
 #### 2.1 Once the download is complete, install the config app directly onto the kiosk.
 #### 2.2 Open the config app after installation, input the device IMEI (Step1), click Save button (Step2), then exit this app.
 
@@ -24,6 +27,9 @@
 - Then scan the following qrcode, the download link will be automatically inputted into the browser address bar.
 
 ![](../Files/kiosk_1.0.0.202308110931.png)
+
+Google drive link:
+![](../Files/app_in_google_drive.png)
 
 #### 3.1 Once the download is complete, install the app directly onto the kiosk. It will override the old version if an old version installed.
 #### 3.2 Open the app after installation, then check if everything is running well. If yes, the installation was successful.

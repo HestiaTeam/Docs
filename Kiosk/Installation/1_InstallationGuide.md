@@ -17,7 +17,7 @@
 
 ![](../Files/0.tips.png)
 
-### 3. Install the Kiosk App: : [kiosk_1.0.0.202308110931.apk](https://raw.githubusercontent.com/HestiaTeam/Docs/main/Kiosk/Files/1.0.0.202308110931.apk)
+### 3. Install the Kiosk App: : [kiosk_1.0.0.202308110931.apk](https://raw.githubusercontent.com/HestiaTeam/Docs/main/Kiosk/Files/app.1.0.0.202308110931.apk)
 
 - If the download link is hard to input to kiosk browser, you also can do it like this:
 - Open the browser in kiosk, then click the address bar (Set input focus to the browser address bar).

@@ -8,5 +8,8 @@
 
 ![](../Files/kiosk_1.0.0.202308110931.png)
 
+Google drive link:
+![](../Files/app_in_google_drive.png)
+
 #### 2. Once the download is complete, install the app directly onto the kiosk. It will override the old version without requiring an uninstallation.
 #### 3. Open the app after installation, then check if everything is running well. If yes, the update was successful.

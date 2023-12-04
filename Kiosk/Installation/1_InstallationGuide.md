@@ -13,6 +13,7 @@
 ![](../Files/kiosk_config_1.0.0.202306051328.png)
 
 Google drive link:
+
 ![](../Files/config_in_google_drive.png)
 
 #### 2.1 Once the download is complete, install the config app directly onto the kiosk.
@@ -29,6 +30,7 @@ Google drive link:
 ![](../Files/kiosk_1.0.0.202308110931.png)
 
 Google drive link:
+
 ![](../Files/app_in_google_drive.png)
 
 #### 3.1 Once the download is complete, install the app directly onto the kiosk. It will override the old version if an old version installed.

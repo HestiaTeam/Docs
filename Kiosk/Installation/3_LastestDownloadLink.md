@@ -6,7 +6,7 @@
 - Open the browser in kiosk, then click the address bar (Set input focus to the browser address bar).
 - Then scan the following qrcode, the download link will be automatically inputted into the browser address bar.
 
-![](../Files/kiosk_1.0.0.202308110931.png)
+![](../Files/kiosk_app_1.0.0.202308110931.png)
 
 Google drive link:
 
